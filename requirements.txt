@@ -1,5 +1,6 @@
-agno>=0.4.2
-streamlit>=1.33.0
-pydantic>=2.7.0
-openai>=1.30.0
-exa_py>=1.0.7
+streamlit>=1.50
+openai>=1.92
+exa_py>=1.14
+pydantic>=2.7
+pandas>=2.0
+python-dotenv>=1.0
